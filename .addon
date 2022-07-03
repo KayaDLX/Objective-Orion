@@ -1,0 +1,23 @@
+{
+  "Title": "Objective Orion",
+  "Type": "game",
+  "Org": "kaya",
+  "Ident": "objective_orion",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "Sandbox",
+  "Metadata": {
+    "MaxPlayers": 1,
+    "MinPlayers": 1,
+    "GameNetworkType": 1,
+    "MapSelect": 1,
+    "MapList": [],
+    "RankType": 0,
+    "PerMapRanking": false,
+    "LeaderboardType": 0
+  }
+}
